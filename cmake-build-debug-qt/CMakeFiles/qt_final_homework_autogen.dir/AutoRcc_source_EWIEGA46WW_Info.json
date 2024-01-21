@@ -1,0 +1,25 @@
+{
+	"BUILD_DIR" : "E:/QtProject/qt_final_homework/cmake-build-debug-qt/qt_final_homework_autogen",
+	"CMAKE_BINARY_DIR" : "E:/QtProject/qt_final_homework/cmake-build-debug-qt",
+	"CMAKE_CURRENT_BINARY_DIR" : "E:/QtProject/qt_final_homework/cmake-build-debug-qt",
+	"CMAKE_CURRENT_SOURCE_DIR" : "E:/QtProject/qt_final_homework",
+	"CMAKE_SOURCE_DIR" : "E:/QtProject/qt_final_homework",
+	"INCLUDE_DIR" : "E:/QtProject/qt_final_homework/cmake-build-debug-qt/qt_final_homework_autogen/include",
+	"INPUTS" : 
+	[
+		"E:/QtProject/qt_final_homework/p7.gif",
+		"E:/QtProject/qt_final_homework/p4.jpg",
+		"E:/QtProject/qt_final_homework/p6.jpg",
+		"E:/QtProject/qt_final_homework/p5.jpg"
+	],
+	"LOCK_FILE" : "E:/QtProject/qt_final_homework/cmake-build-debug-qt/CMakeFiles/qt_final_homework_autogen.dir/AutoRcc_source_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "source" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_source.cpp",
+	"RCC_EXECUTABLE" : "E:/Qt/5.14.2/mingw73_64/bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "E:/QtProject/qt_final_homework/cmake-build-debug-qt/CMakeFiles/qt_final_homework_autogen.dir/AutoRcc_source_EWIEGA46WW_Used.txt",
+	"SOURCE" : "E:/QtProject/qt_final_homework/source.qrc",
+	"VERBOSITY" : 0
+}

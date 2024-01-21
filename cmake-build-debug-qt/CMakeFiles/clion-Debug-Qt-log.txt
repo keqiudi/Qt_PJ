@@ -1,0 +1,25 @@
+"E:\CLion 2023.3.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=E:/QT/Tools/mingw730_64/bin/mingw32-make.exe -DCMAKE_C_COMPILER=E:/QT/Tools/mingw730_64/bin/gcc.exe -DCMAKE_CXX_COMPILER=E:/QT/Tools/mingw730_64/bin/g++.exe -G "CodeBlocks - MinGW Makefiles" -S E:\QtProject\qt_final_homework -B E:\QtProject\qt_final_homework\cmake-build-debug-qt
+CMake Deprecation Warning:
+  Support for "Extra Generators" like
+
+    CodeBlocks
+
+  is deprecated and will be removed from a future version of CMake.  IDEs may
+  use the cmake-file-api(7) to view CMake-generated project build trees.
+
+
+-- The CXX compiler identification is GNU 7.3.0
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: E:/QT/Tools/mingw730_64/bin/g++.exe - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring done (1.6s)
+-- Generating done (0.0s)
+CMake Warning:
+  Manually-specified variables were not used by the project:
+
+    CMAKE_C_COMPILER
+
+
+-- Build files have been written to: E:/QtProject/qt_final_homework/cmake-build-debug-qt

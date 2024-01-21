@@ -1,0 +1,4 @@
+E:/QtProject/qt_final_homework/cmake-build-debug-qt/CMakeFiles/qt_final_homework.dir
+E:/QtProject/qt_final_homework/cmake-build-debug-qt/CMakeFiles/edit_cache.dir
+E:/QtProject/qt_final_homework/cmake-build-debug-qt/CMakeFiles/rebuild_cache.dir
+E:/QtProject/qt_final_homework/cmake-build-debug-qt/CMakeFiles/qt_final_homework_autogen.dir
